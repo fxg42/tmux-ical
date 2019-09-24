@@ -12,7 +12,6 @@ Adds next iCal event to tmux status line
 ## Dependencies
 
 - [icalBuddy](https://hasseg.org/icalBuddy/)
-- [A terminal font based on Nerd Fonts](https://www.nerdfonts.com/)
 
 ## Installation
 

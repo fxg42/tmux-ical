@@ -9,9 +9,9 @@ if [ -f "$FILE" ]; then
   if [ ! -z "$next_event" ]; then
     if [ ${#next_event} -ge 27 ]; then
       short_next_event=$( echo "${next_event}" | cut -c 1-25 )
-      echo "  ${short_next_event}…  "
+      echo "${short_next_event}…"
     else
-      echo "  ${next_event}  "
+      echo "${next_event}"
     fi
   fi
 fi
