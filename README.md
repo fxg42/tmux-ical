@@ -12,6 +12,7 @@ Adds next iCal event to tmux status line
 ## Dependencies
 
 - [icalBuddy](https://hasseg.org/icalBuddy/)
+- For Catalina, [icalBuddy64 v1.10.0](https://github.com/DavidKaluta/icalBuddy64/releases/tag/v1.10.0)
 
 ## Installation
 
